@@ -13,12 +13,15 @@ Materialele pot fi rulate local prin instalarea pachetelor din requirements.txt 
 
 ## Structura
 M1 - Introducere
-* *Partea 1* - Bazele limbajului Python
-* *Partea 2* - Structuri de control in Python
-* *Partea 3* - Definirea si utilizarea functiilor in Python
+* *Partea 1* - [Bazele limbajului Python](https://github.com/uncoded-ro/lp2/blob/main/modul_1/lp2_m1_02_baze.ipynb)
+* *Partea 2* - [Structuri de control in Python](https://github.com/uncoded-ro/lp2/blob/main/modul_1/lp2_m1_03_structuri_de_control.ipynb)
+* *Partea 3* - [Definirea si utilizarea functiilor in Python](https://github.com/uncoded-ro/lp2/blob/main/modul_1/lp2_m1_04_functii.ipynb)
 
 M2 - Structuri de date
-* disponibil din 1.03.2021
+* *Partea 1* - [Structuri de date de tip lista in Python](https://github.com/uncoded-ro/lp2/blob/main/modul_2/lp2_m2_01_liste.ipynb)
+* *Partea 2* - [Structuri de date de tip tuplu in Python](https://github.com/uncoded-ro/lp2/blob/main/modul_2/lp2_m2_02_tupluri.ipynb)
+* *Partea 3* - [Structuri de date de tip dictionar in Python](https://github.com/uncoded-ro/lp2/blob/main/modul_2/lp2_m2_03_dictionare.ipynb)
+* *Partea 4* - [Structuri de date de tip multime in Python](https://github.com/uncoded-ro/lp2/blob/main/modul_2/lp2_m2_04_multimi.ipynb)
 
 M3 - Paradigme
 * disponibil din 1.03.2021
