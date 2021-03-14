@@ -22,15 +22,17 @@ M2 - Structuri de date
 * *Partea 2* - [Structuri de date de tip tuplu in Python](https://github.com/uncoded-ro/lp2/blob/main/modul_2/lp2_m2_02_tupluri.ipynb)
 * *Partea 3* - [Structuri de date de tip dictionar in Python](https://github.com/uncoded-ro/lp2/blob/main/modul_2/lp2_m2_03_dictionare.ipynb)
 * *Partea 4* - [Structuri de date de tip multime in Python](https://github.com/uncoded-ro/lp2/blob/main/modul_2/lp2_m2_04_multimi.ipynb)
+* *Partea 5* - [Expresii regulate in Python](https://github.com/uncoded-ro/lp2/blob/main/modul_2/lp2_m2_05_regexp.ipynb)
 
 M3 - Paradigme
-* disponibil din 1.03.2021
+* *Partea 1* - [Programare orientata pe obiecte in Python](https://github.com/uncoded-ro/lp2/blob/main/modul_3/lp2_m3_01_poo.ipynb)
+* *Partea 2* - [Elemente de programare functionala in Python](https://github.com/uncoded-ro/lp2/blob/main/modul_3/lp2_m3_02_programare_functionala.ipynb)
 
 M4 - Operatii cu fisiere. Exceptii.
-* disponibil din 1.03.2021
+* disponibil din 5.04.2021
 
 M5 - Organizarea aplicatiilor. Testarea automata a codului.
-* disponibil din 1.03.2021
+* disponibil din 12.04.2021
 
 M6 - Programarea in retea. Programarea concurenta.
-* disponibil din 1.03.2021
+* disponibil din 20.04.2021
