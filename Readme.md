@@ -22,7 +22,6 @@ M2 - Structuri de date
 * *Partea 2* - [Structuri de date de tip tuplu in Python](https://github.com/uncoded-ro/lp2/blob/main/modul_2/lp2_m2_02_tupluri.ipynb)
 * *Partea 3* - [Structuri de date de tip dictionar in Python](https://github.com/uncoded-ro/lp2/blob/main/modul_2/lp2_m2_03_dictionare.ipynb)
 * *Partea 4* - [Structuri de date de tip multime in Python](https://github.com/uncoded-ro/lp2/blob/main/modul_2/lp2_m2_04_multimi.ipynb)
-* *Partea 5* - [Expresii regulate in Python](https://github.com/uncoded-ro/lp2/blob/main/modul_2/lp2_m2_05_regexp.ipynb)
 
 M3 - Paradigme
 * *Partea 1* - [Programare orientata pe obiecte in Python](https://github.com/uncoded-ro/lp2/blob/main/modul_3/lp2_m3_01_poo.ipynb)
