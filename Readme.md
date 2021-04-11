@@ -32,7 +32,9 @@ M4 - Operatii cu fisiere. Exceptii.
 * *Partea 2* - [Erori si exceptii in limbajul Python](https://github.com/uncoded-ro/lp2/blob/main/modul_4/lp2_m4_02_erori_si_exceptii.ipynb)
 
 M5 - Organizarea aplicatiilor. Testarea automata a codului.
-* disponibil din 12.04.2021
+* *Partea 1* - [Testarea automata a codului in aplicatii Python](https://github.com/uncoded-ro/lp2/blob/main/modul_5/lp2_m5_01_testarea_codului.ipynb)
+* *Partea 2* - [Organizarea aplicatiilor Python folosind module si pachete](https://github.com/uncoded-ro/lp2/blob/main/modul_5/lp2_m5_02_organizarea_aplicatiilor.ipynb)
+
 
 M6 - Programarea in retea. Programarea concurenta.
 * disponibil din 20.04.2021
