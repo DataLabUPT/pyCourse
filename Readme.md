@@ -37,4 +37,4 @@ M5 - Organizarea aplicatiilor. Testarea automata a codului.
 
 
 M6 - Programarea in retea. Programarea concurenta.
-* disponibil din 20.04.2021
+* *Partea 1* - [Programare in retea in aplicatii Python](https://github.com/uncoded-ro/lp2/blob/main/modul_6/lp2_m6_01_programare_in_retea.ipynb)
