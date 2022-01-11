@@ -1,4 +1,4 @@
-# Curs LP2 2020-2021
+# Curs Python
 
 Contine materialele dezvoltate de [Marian Bucos](https://ti.etcti.upt.ro/marian-bucos/) pentru 
 [uncoded.ro](https://uncoded.ro/), formatate pentru Jupiter Notebook si organizate in unitati de invatare de 
