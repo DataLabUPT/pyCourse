@@ -1,9 +1,8 @@
 # Curs Python
 
-Contine materialele dezvoltate de [Marian Bucos](https://ti.etcti.upt.ro/marian-bucos/) pentru 
-[uncoded.ro](https://uncoded.ro/), formatate pentru Jupiter Notebook si organizate in unitati de invatare de 
-[Bogdan Dragulescu](https://ti.etcti.upt.ro/bogdan-dragulescu/). Materialele 
-sunt utilizate in cadrul cursului [Limbaje de programare 2](https://ti.etcti.upt.ro/cursuri/limbaje-de-programare-2/) 
+Contine materialele dezvoltate de [Marian Bucos](https://datalab.upt.ro/marian-bucos/), formatate pentru Jupiter Notebook si organizate in unitati de invatare de 
+[Bogdan Dragulescu](https://datalab.upt.ro/bogdan-dragulescu/). Materialele 
+sunt utilizate in cadrul cursului [Limbaje de programare 2](https://datalab.upt.ro/cursuri/limbaje-de-programare-2/) 
 din cadrul programului de licenta al facultatii [Electronica, Telecomunicatii si Tehnologii Informationale](https://etcti.upt.ro/), Universitatea Politehnica Timisoara.
 
 Pe masura ce inaintam in semestru vor fi adaugate materiale pentru toate modulele.
